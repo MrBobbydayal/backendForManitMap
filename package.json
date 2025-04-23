@@ -5,8 +5,10 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon  -r dotenv/config --experimental-json-modules src/index.js"
-  },
+  "start": "node index.js", 
+  "dev": "nodemon index.js"
+}
+  ,
   "keywords": [
     "Bobby",
     "manit",
