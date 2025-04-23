@@ -5,10 +5,9 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-  "start": "node index.js", 
-  "dev": "nodemon index.js"
-}
-  ,
+    "start": "node index.js"
+  },
+  
   "keywords": [
     "Bobby",
     "manit",
